@@ -1,6 +1,12 @@
 body{
-    background-color: black;
+    background-color: rgb(3, 8, 29);
 
+}
+.animate{
+    color:azure;
+    margin:40px;
+    font-size: 60px;
+    
 }
 
 
@@ -8,8 +14,8 @@ body{
 .rows ul li{
     width: 90%;
     height: 300px;
-    background: rgb(34, 28, 28);
-    border:2px solid white;
+    background: rgb(43, 24, 75);
+    border:1px solid white;
     list-style:none;
     margin: 20px;
     border-radius: 16px;
